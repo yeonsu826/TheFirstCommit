@@ -1,2 +1,2 @@
-email :
-gitID :
+email :yeonsu826@gmail.com
+gitID :yeonsu826
